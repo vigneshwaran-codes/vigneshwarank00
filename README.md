@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Vigneshwaran K
 - 👀 A passionate Full Stack developer
 - 🌱 I’m currently learning Full-Stack Development
+- Language and Tools:
+-    HTML , Css , Javascript , Bootstrap , React.js , MySQL , Mongo DB
+-    UX-Design , Figma , python
+-    
+- Process --> { Learning Node.js }
 
 - 📫 Connect with me 
 https://www.linkedin.com/in/vigneshwarank13/

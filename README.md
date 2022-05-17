@@ -5,7 +5,7 @@
 -    HTML , Css , Javascript , Bootstrap , React.js , MySQL , Mongo DB
 -    UX-Design , Figma , python
 -    
-- Process --> { Learning Node.js }
+- Process --> { Grinding Node.js }
 
 - 📫 Connect with me 
 https://www.linkedin.com/in/vigneshwarank13/
